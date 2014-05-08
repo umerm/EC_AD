@@ -1,0 +1,73 @@
+
+body
+{
+	margin:0px;
+	background-image:url("images/ja.png");
+}
+
+.headings
+{
+	font-size:24px;
+}
+a,td,thead,p
+{
+	font-family:helvetica;
+	color:black;
+}
+a
+{
+	text-decoration:none;
+}
+#wrapper
+{
+	width:1195px;
+	margin:0 auto;
+}
+
+.navi
+{
+	height:40px;
+	width:100%;
+	border-radius:20px;
+	background-color:#3366FF;
+}
+.top_menu
+{
+	height:20px;
+	width:1195px;
+	background-color:grey;
+}
+.top_menu a
+{
+	color:white;
+}
+
+.register
+{
+	border-radius:20px;
+	border:1px solid black;
+}
+
+.register 
+{
+	margin:5px;
+}
+.register 
+{
+	margin:10px;
+}
+.register tbody tr td 
+{
+	margin:8px;
+}
+.submit
+{
+	background-color:#6666FF;
+	border-radius:10px;
+	border:none;
+	height:40px;
+	width:70px;
+	color:white;
+	font-size:18px;
+	
+}
